@@ -39,9 +39,11 @@ This repository serves as my digital notebook for transitioning into the world o
 
 | Experiment / Project | Concept Applied | Purpose |
 | :--- | :--- | :--- |
-| **Cahier Vacances: Project 1** | *[e.g., Pandas, Data Viz]* | *[e.g., Exploring dataset structure and cleaning missing values]* |
-| **Cahier Vacances: Project 2** | *[e.g., Scikit-Learn, Train/Test Split]* | *[e.g., Training a first classification model]* |
-| **Cahier Vacances: Project 3** | *[e.g., OpenAI API, JSON parsing]* | *[e.g., Integrating an LLM to process text data]* |
+| **Cahier Vacances: Project 1** | *SQLite, SQL Queries, Relational Databases* | *Exploring databases and extracting insights by writing various SQL queries to answer specific analytical questions.* |
+| **Cahier Vacances: Project 2** | * Scikit-Learn, Train/Test Split, Data Preprocessing, Random Forest, Matplotlib, Confusion matrix* | *Analyzing a World Cup dataset to test hypotheses, preparing the data, training a classification model, and visualizing key metrics.* |
+| **Cahier Vacances: Project 3** | *[OpenAI API, JSON parsing]* | *[Integrating an LLM to process text data]* |
+
+
 
 ---
 
